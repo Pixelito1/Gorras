@@ -1,0 +1,34 @@
+[
+    {
+      "nombre": "Gorra New Era",
+      "categoria": "Plana",
+      "genero": "M",
+      "color":"negra",
+      "precio":"18.000 COP",
+      "imagen":"https://neweraco.vtexassets.com/assets/vtex.file-manager-graphql/images/2b1bd9b3-b3f7-4d20-88b7-7744913f6c15___2e8b692c52586628d725cb541fc6c7a4.png" 
+    },
+    {
+        "nombre": "Gorra Fox",
+        "categoria": "Plana",
+        "genero": "F",
+        "color":"Rosa",
+        "precio":"22.000 COP",
+        "imagen":"https://s7d2.scene7.com/is/image/FoxRacing/31832008_1?$dw_detn1$&fmt=webp-alpha" 
+    },
+    {
+        "nombre": "Gorra Fox",
+        "categoria": "Plana",
+        "genero": "F",
+        "color":"Rosa",
+        "precio":"22.000 COP",
+        "imagen":"https://s7d2.scene7.com/is/image/FoxRacing/31832008_1?$dw_detn1$&fmt=webp-alpha" 
+    },
+    {
+      "nombre": "Gorra Fox",
+      "categoria": "Plana",
+      "genero": "F",
+      "color":"Rosa",
+      "precio":"22.000 COP",
+      "imagen":"https://s7d2.scene7.com/is/image/FoxRacing/31832008_1?$dw_detn1$&fmt=webp-alpha" 
+  }    
+]
