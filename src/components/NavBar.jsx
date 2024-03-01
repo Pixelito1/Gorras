@@ -19,10 +19,10 @@ function NavBar() {
     <>
       <header className="bg-red-500 p-6">
         <div className="flex justify-between">
-          <p onClick={() => pagination("/")} className="text-4xl">
+          <p onClick={() => pagination("/")} className="text-6xl text-red-200">
             <Link to={"/"}>GORRAS A MIL</Link>
           </p>
-          <div className="flex gap-80 items-end">
+          <div className="flex gap-80 items-end text-2xl text-white">
             <ul className="flex gap-10 items-end">
               {pages.map((root, index) => (
                 <li key={index}>
@@ -30,7 +30,7 @@ function NavBar() {
                     <p
                       className={
                         page === root.url
-                          ? "border-b-2 border-black font-bold gap-10"
+                          ? "border-b-2 border-white font-bold gap-10"
                           : ""
                       }
                       onClick={() => pagination(root.url)}
