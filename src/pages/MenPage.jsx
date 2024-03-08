@@ -1,23 +1,11 @@
-import Product from "../components/Products";
-import productos from "../mocks/products.json";
+import Section from "../components/Section";
 import Footer from "../components/Footer";
 
 function ManPage() {
   return (
     <div>
-      <div className="flex flex-wrap justify-between gap-5 p-8">
-        {productos
-          .filter((producto) => producto.genero === "M")
-          .map((producto, index) => (
-            <Product
-              className="w-1/5 mb-5"
-              key={index}
-              imageUrl={producto.imagen}
-              nameObj={producto.nombre}
-              priceObj={producto.precio}
-              marcaObj={producto.marca}
-            />
-          ))}
+      <div>
+        <Section filter={"Masculina"} />;
       </div>
       <div>
         <Footer />

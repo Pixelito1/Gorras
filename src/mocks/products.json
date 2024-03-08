@@ -1,92 +1,42 @@
 [
     {
+      "id": 1,
       "nombre": "Gorra New York",
       "marca" : "New Era",
       "categoria": "Plana",
-      "genero": "M",
-      "color":"Negra",
+      "genero": "Masculina",
+      "color":"Negro",
       "precio":"18.000 COP",
       "imagen":"https://neweraco.vtexassets.com/assets/vtex.file-manager-graphql/images/2b1bd9b3-b3f7-4d20-88b7-7744913f6c15___2e8b692c52586628d725cb541fc6c7a4.png" 
     },
     {
+        "id": 2,
         "nombre": "Gorra Los Angeles Dodger",
         "marca" : "New Era",
         "categoria": "Plana",
-        "genero": "M",
+        "genero": "Masculina",
         "color":"Verde",
         "precio":"22.000 COP",
         "imagen":"https://neweraco.vtexassets.com/arquivos/ids/191391/60493603_1.png?v=638413005856130000" 
     },
     {
+      "id": 3,
       "nombre": "Gorra Fox",
       "marca" : "Fox",
       "categoria": "Plana",
-      "genero": "F",
+      "genero": "Femenina",
       "color":"Rosado",
       "precio":"22.000 COP",
       "imagen":"https://s7d2.scene7.com/is/image/FoxRacing/31832008_1?$dw_detn1$&fmt=webp-alpha" 
      },
      {
-      "nombre": "Gorra de maya Adidas unisex",
+      "id": 4,
+      "nombre": "Gorra de maya Adidas",
       "marca" : "Adidas",
       "categoria": "Curva",
-      "genero": "M",
-      "color":"Rosado",
+      "genero": "Masculina",
+      "color":"Blanco",
       "precio":"22.000 COP",
       "imagen":"https://falabella.scene7.com/is/image/FalabellaCO/70608832_1?wid=1500&hei=1500&qlt=70" 
-     },   
-     {
-      "nombre": "Gorra Los Angeles Dodger",
-      "marca" : "New Era",
-      "categoria": "Plana",
-      "genero": "M",
-      "color":"Verde",
-      "precio":"22.000 COP",
-      "imagen":"https://neweraco.vtexassets.com/arquivos/ids/191391/60493603_1.png?v=638413005856130000" 
-     },
-     {
-      "nombre": "Gorra Los Angeles Dodger",
-      "marca" : "New Era",
-      "categoria": "Plana",
-      "genero": "M",
-      "color":"Verde",
-      "precio":"22.000 COP",
-      "imagen":"https://neweraco.vtexassets.com/arquivos/ids/191391/60493603_1.png?v=638413005856130000" 
-     },
-     {
-      "nombre": "Gorra Fox",
-      "marca" : "Fox",
-      "categoria": "Plana",
-      "genero": "F",
-      "color":"Rosado",
-      "precio":"22.000 COP",
-      "imagen":"https://s7d2.scene7.com/is/image/FoxRacing/31832008_1?$dw_detn1$&fmt=webp-alpha" 
-     },
-     {
-      "nombre": "Gorra Fox",
-      "marca" : "Fox",
-      "categoria": "Plana",
-      "genero": "F",
-      "color":"Rosado",
-      "precio":"22.000 COP",
-      "imagen":"https://s7d2.scene7.com/is/image/FoxRacing/31832008_1?$dw_detn1$&fmt=webp-alpha" 
-     },
-     {
-      "nombre": "Gorra Fox",
-      "marca" : "Fox",
-      "categoria": "Plana",
-      "genero": "F",
-      "color":"Rosado",
-      "precio":"22.000 COP",
-      "imagen":"https://s7d2.scene7.com/is/image/FoxRacing/31832008_1?$dw_detn1$&fmt=webp-alpha" 
-     },
-     {                   
-     "nombre": "Gorra Fox",
-     "marca" : "Fox",
-     "categoria": "Plana",
-     "genero": "F",
-     "color":"Rosado",
-     "precio":"22.000 COP",
-     "imagen":"https://s7d2.scene7.com/is/image/FoxRacing/31832008_1?$dw_detn1$&fmt=webp-alpha" 
-    }  
+     }    
 ]
